@@ -1,0 +1,25 @@
+# Python virtual environment
+/yolo_env/
+
+# Output & Logs
+/runs/detect/
+/dataset/
+/dataset_fc_tokyo_away/
+/dataset_fc_tokyo_home/
+/output_images_rb_sns/
+/test_images/
+
+# Log files
+*.pt
+*.MOV
+*.MTS
+*.json
+
+# Optional: VS Code / editor stuff
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# OS-specific
+Thumbs.db
